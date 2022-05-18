@@ -15,3 +15,5 @@ Links:
 L298N https://robotclass.ru/tutorials/arduino-l298-dc-motor-driver/
 
 joy https://arduinoplus.ru/arduino-joystick/
+
+L298N https://www.youtube.com/watch?v=esdXNN1mVTo&ab_channel=ТЕХ-ОРБИТА
