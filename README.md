@@ -7,3 +7,8 @@ Arduino moduls use in platforme:
 - arduino mini x1
 - joy module x1
 - MT3608 DC-DC Step Up x2
+- Li-pol 
+
+Links:
+L298N https://robotclass.ru/tutorials/arduino-l298-dc-motor-driver/
+joy https://arduinoplus.ru/arduino-joystick/
