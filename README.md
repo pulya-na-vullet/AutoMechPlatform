@@ -7,7 +7,7 @@ Arduino moduls use in platform:
 - arduino mini x1
 - joy module x1
 - MT3608 DC-DC Step Up x1
-- Li-pol 14.4 V
+- Li-pol 7.4 V
 - electrical inspection brs-550sh 14.4 V x2
 
 Links:
