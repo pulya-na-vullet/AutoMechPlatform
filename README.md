@@ -3,6 +3,9 @@
 
 The project of a mechanical crawler platform for debugging the operation of autonomous modules.
 
+Material: PLA
+Bearing: 608 zz
+
 Arduino moduls use in platform:
 - drivers L298N x1
 - arduino mini x1
