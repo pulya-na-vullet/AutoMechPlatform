@@ -3,11 +3,11 @@
 The project of a mechanical crawler platform for debugging the operation of autonomous modules.
 
 Arduino moduls use in platform:
-- drivers L298N x2
+- drivers L298N x1
 - arduino mini x1
 - joy module x1
-- MT3608 DC-DC Step Up x2
-- Li-pol 
+- MT3608 DC-DC Step Up x1
+- Li-pol 14.4 V
 - electrical inspection brs-550sh 14.4 V x2
 
 Links:
