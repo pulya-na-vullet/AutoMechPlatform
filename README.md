@@ -1,4 +1,5 @@
 # AutoMechPlatform
+# Project status: in work
 
 The project of a mechanical crawler platform for debugging the operation of autonomous modules.
 
