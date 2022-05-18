@@ -10,6 +10,6 @@ Arduino moduls use in platforme:
 - Li-pol 
 
 Links:
-L298N https://robotclass.ru/tutorials/arduino-l298-dc-motor-driver/
 
+L298N https://robotclass.ru/tutorials/arduino-l298-dc-motor-driver/
 joy https://arduinoplus.ru/arduino-joystick/
